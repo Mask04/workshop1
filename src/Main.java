@@ -9,6 +9,9 @@ public class Main {
         Scanner obj = new Scanner(System.in);
         i = obj.nextInt();
         j = obj.nextInt();
-
+        int sum = i + j;
+        int subtraction = i - j;
+        int multiplication = i * j;
+        int division = i / j;
     }
 }
