@@ -13,5 +13,11 @@ public class Main {
         int subtraction = i - j;
         int multiplication = i * j;
         int division = i / j;
+
+        System.out.println("i + j = " + sum);
+        System.out.println("i - j = " + subtraction);
+        System.out.println("i * j = " + multiplication);
+        System.out.println("i / j = " + division);
+
     }
 }
